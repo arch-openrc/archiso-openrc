@@ -1,0 +1,17 @@
+cgmanager-openrc
+device-mapper-openrc
+dhcp-openrc
+dhcpcd-openrc
+fuse-openrc
+glibc-openrc
+gpm-openrc
+haveged-openrc
+hdparm-openrc
+inetutils-openrc
+lvm2-openrc
+mdadm-openrc
+netifrc
+openssh-openrc
+openvpn-openrc
+rsync-openrc
+wpa_supplicant-openrc
